@@ -7,6 +7,7 @@ In this project, you’ll use the commands you learned to navigate and edit the 
 
 The starting filesystem is shown below. (Bicycle World recently changed owners, who named the main directory bicycle-world-ii.)
 
+```
 bicycle-world-ii
 |—— brands.txt
 |—— freight/
@@ -20,6 +21,8 @@ bicycle-world-ii
 |—— racing/
     |—— road/
     |—— track/
+```
+
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
 
 Tasks
