@@ -35,37 +35,37 @@ If you ever get lost, you can return to this directory using cd.
 
 
 Hint
-$ pwd
-/home/ccuser/workspace/bicycle-world-ii
+``$ pwd
+/home/ccuser/workspace/bicycle-world-ii```
 Return here by entering:
 
-$ cd /home/ccuser/workspace/bicycle-world-ii
+```$ cd /home/ccuser/workspace/bicycle-world-ii```
 2.
 List the files and directories in the working directory.
 
 
 Hint
-$ ls
-brands.txt  freight  mountain  racing
+```$ ls```
+```brands.txt  freight  mountain  racing```
 3.
 Change directories to the freight/ directory.
 
 
 Hint
-$ cd freight
+```$ cd freight```
 4.
 List the files and directories in the working directory.
 
 
 Hint
-$ ls
-messenger  porteur
+```$ ls```
+```messenger  porteur```
 5.
 Change directories to the porteur/ directory.
 
 
 Hint
-$ cd porteur
+```$ cd porteur```
 6.
 Change directories up two levels to the bicycle-world-ii/ directory.
 
@@ -73,9 +73,9 @@ List the files and directories in the bicycle-world-ii/ directory.
 
 
 Hint
-$ cd ../..
-$ ls
-brands.txt  freight  mountain  racing
+```$ cd ../..```
+```$ ls```
+```brands.txt  freight  mountain  racing```
 If you see an error like No such file or directory, you might be in the wrong directory! Use cd ../.. from within porteur/.
 
 7.
@@ -83,38 +83,38 @@ Change directories to the mountain/downhill/ directory.
 
 
 Hint
-$ cd mountain/downhill
+```$ cd mountain/downhill```
 8.
-Make a file called dirt.txt.
+```Make a file called dirt.txt.```
 
 
 Hint
-$ touch dirt.txt
+```$ touch dirt.txt```
 9.
 Make a file called mud.txt.
 
 
 Hint
-$ touch mud.txt
+```$ touch mud.txt```
 10.
 List the files and directories in the downhill/ directory.
 
 
 Hint
-$ ls
-dirt.txt  heavyweight  lightweight  mud.txt
+```$ ls```
+```dirt.txt  heavyweight  lightweight  mud.txt```
 11.
 Downhill biking is dangerous: In the downhill/ directory, make a directory called safety/.
 
 
 Hint
-$ mkdir safety
+```$ mkdir safety```
 12.
 Change directories to the bicycle-world-ii/ directory.
 
 
 Hint
-$ cd ../..
+```$ cd ../..```
 If you see an error like No such file or directory, you might be in the wrong directory! Use cd ../.. from within downhill/.
 
 13.
@@ -122,8 +122,8 @@ List the contents of the bicycle-world-ii/ directory.
 
 
 Hint
-$ ls
-brands.txt  freight  mountain  racing
+```$ ls```
+```brands.txt  freight  mountain  racing```
 14.
 The shop is adding a new type of bike!
 
@@ -131,17 +131,17 @@ In bicycle-world-ii/, make a directory called bmx/.
 
 
 Hint
-$ mkdir bmx
+```$ mkdir bmx```
 15.
 Without changing directories from bicycle-world-ii/, make a file in the bmx/ directory called tricks.txt.
 
 
 Hint
-$ touch bmx/tricks.txt
+```$ touch bmx/tricks.txt```
 16.
 List all files and directories in the current directory.
 
 
 Hint
-$ ls
-bmx  brands.txt  freight  mountain  racing
+```$ ls```
+```bmx  brands.txt  freight  mountain  racing```
